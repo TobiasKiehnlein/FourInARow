@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/AI.h
+
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/constants.h
+
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+AI.h
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/AI.h
+constants.h
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/constants.h
+printing.h
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/printing.h
+
+/Users/tobiaskiehnlein/CLionProjects/FourInARow/printing.h
+
